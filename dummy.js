@@ -1,0 +1,2 @@
+console.log('This is a dummy file for testing purposes.'); 
+console.log(`Commit more often to see how the system handles changes in the codebase. This file serves as a placeholder for testing and development workflows.`);
